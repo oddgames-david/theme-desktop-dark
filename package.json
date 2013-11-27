@@ -24,8 +24,8 @@
     "url": "https://github.com/kristoferjoseph/theme-desktop-dark/issues"
   },
   "dependencies": {
-    "topcoat-variables-shared": "git://github.com/topcoat/variables-shared.git",
-    "topcoat-variables-dark": "git://github.com/topcoat/variables-dark.git",
-    "topcoat-variables-desktop": "git://github.com/topcoat/variables-desktop.git"
+    "topcoat-variables-desktop": "~0.1.0",
+    "topcoat-variables-shared": "~0.1.0",
+    "topcoat-variables-dark": "~0.1.0"
   }
 }
