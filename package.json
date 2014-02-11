@@ -1,6 +1,6 @@
 {
   "name": "topcoat-theme-desktop-dark",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Dark desktop theme for Topcoat.",
   "main": "entry.css",
   "style": "src/theme-desktop-dark.css",
